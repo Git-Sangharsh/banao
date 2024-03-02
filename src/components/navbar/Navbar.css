@@ -1,0 +1,27 @@
+.nav{
+    position: fixed;
+    top: 0;
+    height: 80px;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.218);
+}
+
+.max{
+    width: 300px !important;
+}
+
+.mid-color-nav{
+    background-color: #f2f2f2 !important;
+}
+
+input{
+    outline: none;
+}
+.search-icon{
+    color: rgb(109, 109, 109) !important;
+    padding: 0px 10px;
+}
+
+.blue-color-nav{
+    color: #2F6CEF;
+}

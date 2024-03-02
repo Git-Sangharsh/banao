@@ -1,0 +1,22 @@
+.hero{
+    background-image: url('../assets/mountain.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+
+.hold-headers{
+    z-index: 999;
+    padding-top: 500px;
+    padding-left: 150px;
+}
+
+.hold-headers-h2{
+    color: #FFFFFF;
+    font-size: 50px
+}
+
+.hold-headers-h5{
+    color: #FFFFFF;
+
+}
