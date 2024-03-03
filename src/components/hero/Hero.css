@@ -18,5 +18,35 @@
 
 .hold-headers-h5{
     color: #FFFFFF;
+}
 
+@media (max-width: 768px){
+    .hero{
+        height: 500px;
+    }
+
+    .hold-headers{
+        padding-top: 350px;
+        padding-left: 80px;
+    }
+}
+
+
+@media (max-width: 425px){
+    .hero{
+        height: 300px;
+    }
+
+    .hold-headers{
+        padding-top: 220px;
+        padding-left: 30px;
+    }
+
+    .hold-headers-h2{
+        font-size: 20px;
+    }
+
+    .hold-headers-h5{
+        font-size: 15px;
+    }
 }
