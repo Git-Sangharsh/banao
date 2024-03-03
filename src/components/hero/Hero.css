@@ -32,6 +32,25 @@
 }
 
 
+@media (max-width: 613px){
+    .hero{
+        height: 300px;
+    }
+
+    .hold-headers{
+        padding-top: 200px;
+        padding-left: 30px;
+    }
+
+    .hold-headers-h2{
+        font-size: 20px;
+    }
+
+    .hold-headers-h5{
+        font-size: 15px;
+    }
+}
+
 @media (max-width: 425px){
     .hero{
         height: 300px;
