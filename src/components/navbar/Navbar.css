@@ -48,7 +48,7 @@
 }
 
 .mid-color-nav {
-  background-color: #f2f2f2 !important;
+  overflow: hidden;
 }
 
 .mid-color-nav {
@@ -56,6 +56,10 @@
   align-items: center;
   border: 1px solid rgba(0, 0, 0, 0.201);
   border-radius: 30px;
+}
+
+.mid-input{
+  border: none;
 }
 
 input {
