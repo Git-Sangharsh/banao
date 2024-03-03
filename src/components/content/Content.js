@@ -273,7 +273,7 @@ const Content = () => {
               className="pencil-icon"
             />
           </div>
-          <div className="hold-para d-flex align-items-center justify-content-center gap-2 p-2">
+          <div className="hold-para">
             <FontAwesomeIcon icon={faExclamation} className="exlamation-icon" />
             <p className="hold-para-p">
               Your location will help us serve better and extend a personalised
